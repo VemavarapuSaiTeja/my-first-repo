@@ -1,0 +1,17 @@
+commit 9aadb096932e5da4cd9cf10a18a0f695c430c4e5
+Author: VemavarapuSaiTeja <teja3vemavarapu@gmail.com>
+Date:   Wed Jun 10 11:47:45 2020 +0530
+
+    added gitignore
+
+commit 5eee2c52feaef6da25ff7fc9d916175ac2f09b2b
+Author: VemavarapuSaiTeja <teja3vemavarapu@gmail.com>
+Date:   Wed Jun 10 02:07:18 2020 +0530
+
+    added two files
+
+commit ded17ed983c71f917566dc9872b1bde0c7dbcb64
+Author: VemavarapuSaiTeja <teja3vemavarapu@gmail.com>
+Date:   Wed Jun 10 01:36:02 2020 +0530
+
+    added readme.txt
